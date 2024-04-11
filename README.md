@@ -13,7 +13,7 @@ XPot goes beyond just being a savings app. It fosters a supportive community of 
 - Engage with a community of like-minded individuals for support and motivation.
 
 ## Installation
-Download the latest android demo. [here](https://github.com/diniesganesan/XBank/releases/download/v0.0.2/app-release.apk)
+Download the latest android demo.  [here](https://github.com/kimhau/XPot/releases/download/v0.0.2/app-release.apk)
 
 ## Usage
 Once you have XPot up and running, follow these steps to get started:
